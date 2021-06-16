@@ -14,4 +14,5 @@
 lankabhedi/lankabhedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lankabhedi&label=Views&color=red&style=material" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lankabhedi&label=Views&color=red&style=flat" alt="Profile Views" /> </p>
+
