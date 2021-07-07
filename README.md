@@ -1,5 +1,4 @@
-
-# Samnit M.
+# Samnit Mehandiratta
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/lankabhedi/)
 
 ### Hi, I’m @lankabhedi👋
