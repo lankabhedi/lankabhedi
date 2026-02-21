@@ -5,7 +5,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, AI, and Quantum Computing.
 - 🌱 I’m currently learning Calculus and IoT.
 - 💞️ I’m looking to collaborate on Python and Web Development projects.
-- 📫 You can reach me on my through my website www.lankabhedi.com
+- 📫 You can reach me on my through my website www.neuralnetworki.ng
 
 
 
